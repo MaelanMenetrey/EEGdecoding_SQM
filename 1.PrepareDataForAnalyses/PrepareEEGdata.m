@@ -74,7 +74,6 @@ for i = 1:numel(subjects)
     reresponse      = tbl.response1;
     redata          = EEG.data;
     end
-    
     % store here
     eegdata         = redata;
     sqmlabels       = reindex;
