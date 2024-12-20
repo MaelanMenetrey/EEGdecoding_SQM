@@ -5,7 +5,7 @@
 %==========================================================================
 % add paths and toolboxes - to change accordingly
 clc; clear;
-addpath(genpath('path_to_Functions')) % Path to the Functions folder with all the functions used in these analyses (downloaded here: https://github.com/MaelanMenetrey/SQM_EEGdecoding)
+addpath(genpath('path_to_Functions')) % Path to the Functions folder with all the functions used in these analyses (downloaded here: https://github.com/MaelanMenetrey/EEGdecoding_SQM)
 
 %% ========================================================================
 % condition ID
