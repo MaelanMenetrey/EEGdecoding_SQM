@@ -8,7 +8,7 @@ clc; clear;
 addpath(genpath('path_to_Functions')) % Path to the Functions folder with all the functions used in these analyses (downloaded here: https://github.com/MaelanMenetrey/EEGdecoding_SQM)
 
 %% ========================================================================
-% condition ID
+% condition ID 
 [NV,V0,V2,V4] = deal(0,1,2,3);
 
 %% ========================================================================
