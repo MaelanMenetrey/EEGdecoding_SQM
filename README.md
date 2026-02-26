@@ -1,5 +1,5 @@
 # EEGdecoding_SQM
-We present in this repository the code and data necessary to reproduce the results shown in Menétrey, Herzog & Pascucci (under review). Neural evidence for a two-stage model of visual processing. 
+We present in this repository the code and data necessary to reproduce the results shown in Menétrey, Herzog & Pascucci. Neural evidence for a two-stage model of visual processing. 
 Preprint: https://www.biorxiv.org/content/10.1101/2024.11.15.623853v1
 
 In this study, we analyzed EEG recordings from 18 participants during the Sequential Metacontrast Paradigm (SQM), where a stream of lines and vernier offsets is unconsciously integrated over several hundred milliseconds (for additional information about the SQM paradigm, see Drissi et al., 2021; https://doi.org/10.1038/s41467-019-12919-7). Five conditions were randomly presented: a condition without any vernier (NV, only a sequence of straight lines), three conditions with one single vernier in the attended stream (V0/V2/V4, with a vernier in the central line, the second, or the fourth flanker line), and two conditions with two opposite vernier offsets in the attended stream (V0-AV2 or V0-AV4, with a vernier in the central line and a vernier with an opposite offset in the second or fourth flanker line). Participants were asked to report the perceived vernier offset.
